@@ -1,5 +1,5 @@
 ![logo](https://github.com/dnr12974/dnr12974/blob/main/Dheer%20N%20Raijada.png)
-<h1 align="center">Hi 👋, I'm Dheer N Raijada</h1>
+<h1 align="center">Hi <img src="hand.gif" height="50px"/>, I'm Dheer N Raijada</h1>
 <h3 align="center">A passionate Computer Science Engineering Student.</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnr12974&label=Profile%20views&color=0e75b6&style=flat" alt="dnr12974" /> </p>
