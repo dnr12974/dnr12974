@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **Firefox's logo isn't a fox, it's actually a red panda! 🦊🐼**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px></h2>
 <p align="left">
 <a href="https://linkedin.com/in/dheer-n-raijada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dheer-n-raijada" height="30" width="40" /></a>
 </p>
