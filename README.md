@@ -2,7 +2,7 @@
 ![logo](https://github.com/dnr12974/dnr12974/blob/main/Dheer%20N%20Raijada.png)
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">Hi <img src="hand.gif" height="50px"/>, I'm Dheer N Raijada</h1>
+ <h1 align="center" style="font-size:3em">Hi 👋 I'm Dheer N Raijada</h1>
 <h3 align="center">A passionate Computer Science Engineering Student.</h3>
 <div id="user-content-toc">
   <ul align="center">
