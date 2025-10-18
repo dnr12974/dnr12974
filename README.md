@@ -23,7 +23,7 @@
 
 <h2 align="left">Connect with me:<img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px></h2>
 <p align="left">
-<a href="https://linkedin.com/in/dheer-n-raijada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dheer-n-raijada" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dheer-n-raijada" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
 </p>
 
 <div id="user-content-toc">
